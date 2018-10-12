@@ -1,0 +1,7 @@
+name: FundMyServer
+version: 1.0
+main: com.gmail.andrewriachi.FundMyServer.FundMyServer
+commands:
+  donationadd:
+    description: Add a donation
+    usage: /donationadd uuid date amount
